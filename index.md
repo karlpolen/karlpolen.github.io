@@ -1,6 +1,6 @@
 ## About this website
 
-This web page provides links to select repositories that may be useful to people interested in institutional investing, especially private equity and real estate.  The repositories illustrate analytical methods and provide code for implementing them.  The full repository is found at [https://github.com/karlp-asrs](https://github.com/karlp-asrs). 
+This web page provides links to select repositories that may be useful to people interested in institutional investing, especially private equity and real estate.  The repositories illustrate analytical methods and provide code for implementing them.  The full repository is found at [https://github.com/karlpolen](https://github.com/karlpolen). 
 
 ## Personal
 
@@ -18,55 +18,55 @@ This web page provides links to select repositories that may be useful to people
 
 ### Private Equity
 
-[Private equity performance analysis](https://karlp-asrs.github.io/pme-calcs)
+[Private equity performance analysis](https://karlpolen.github.io/pme-calcs)
 
-[General partner compensation analysis](https://karlp-asrs.github.io/waterfallqd)
+[General partner compensation analysis](https://karlpolen.github.io/waterfallqd)
 
-[Analyzing private equity return distributions](https://karlp-asrs.github.io/pe-return-distribution)
+[Analyzing private equity return distributions](https://karlpolen.github.io/pe-return-distribution)
 
-[Private equity preferred return calculations](https://karlp-asrs.github.io/pfd_return_calcs)
+[Private equity preferred return calculations](https://karlpolen.github.io/pfd_return_calcs)
 
-[Reverse Engineer PE Incentive Fees](https://karlp-asrs.github.io/reverse-engineer-pe-fees)
+[Reverse Engineer PE Incentive Fees](https://karlpolen.github.io/reverse-engineer-pe-fees)
 
-[Fee Effectiveness](https://karlp-asrs.github.io/fee_effectiveness)
+[Fee Effectiveness](https://karlpolen.github.io/fee_effectiveness)
 
-[Fee Effeciveness in a typical PE Structure](https://karlp-asrs.github.io/fee_eff_pe)
+[Fee Effeciveness in a typical PE Structure](https://karlpolen.github.io/fee_eff_pe)
 
 ### Real Estate
 
-[Real Estate Underwriting](https://karlp-asrs.github.io/real_estate_underwriting)
+[Real Estate Underwriting](https://karlpolen.github.io/real_estate_underwriting)
 
-[Calculating PME for real estate](https://karlp-asrs.github.io/pme-for-real-estate)
+[Calculating PME for real estate](https://karlpolen.github.io/pme-for-real-estate)
 
-[REIT analysis](https://karlp-asrs.github.io/reit-analysis)
+[REIT analysis](https://karlpolen.github.io/reit-analysis)
 
-[Real estate cash flows in R](https://karlp-asrs.github.io/zoocashflow)
+[Real estate cash flows in R](https://karlpolen.github.io/zoocashflow)
 
-[Level payment loan analysis](https://karlp-asrs.github.io/loanamort)
+[Level payment loan analysis](https://karlpolen.github.io/loanamort)
 
 ### Institutional Performance Attribution Analysis
 
-[Multi-period Brinson return attribution](https://karlp-asrs.github.io/Brinson-attribution)
+[Multi-period Brinson return attribution](https://karlpolen.github.io/Brinson-attribution)
 
-[Dollar value add attribution](https://karlp-asrs.github.io/dollar_value_add_attribution)
+[Dollar value add attribution](https://karlpolen.github.io/dollar_value_add_attribution)
 
 ### General Methods
 
 [Code for financial methods](asrsmethodsindex.md)
 
-[R training modules](https://karlp-asrs.github.io/asrs_r_training)
+[R training modules](https://karlpolen.github.io/asrs_r_training)
 
-[Calculating IRRs](https://karlp-asrs.github.io/gips_irr)
+[Calculating IRRs](https://karlpolen.github.io/gips_irr)
 
-[Calculating expected multi-period portfolio geometric returns](https://karlp-asrs.github.io/arith-geom)
+[Calculating expected multi-period portfolio geometric returns](https://karlpolen.github.io/arith-geom)
 
-[Cone Plots](https://karlp-asrs.github.io/cone-plot)
+[Cone Plots](https://karlpolen.github.io/cone-plot)
 
-[League Tables](https://karlp-asrs.github.io/asrs_v_ivies)
+[League Tables](https://karlpolen.github.io/asrs_v_ivies)
 
-[Bootstrapping](https://karlp-asrs.github.io/bootstrap_example)
+[Bootstrapping](https://karlpolen.github.io/bootstrap_example)
 
 ## Bonus
 
-[My Great Books Project](https://karlp-asrs.github.io/great-books)
+[My Great Books Project](https://karlpolen.github.io/great-books)
 
