@@ -34,6 +34,8 @@ This web page provides links to select repositories that may be useful to people
 
 ### Real Estate
 
+[National University of Singapore Apartment Underwriting Presentation](https://karlpolen.github.io/nus_apartment)
+
 [Real Estate Underwriting](https://karlpolen.github.io/real_estate_underwriting)
 
 [Calculating PME for real estate](https://karlpolen.github.io/pme-for-real-estate)
