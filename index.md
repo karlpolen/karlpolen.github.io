@@ -34,7 +34,7 @@ This web page provides links to select repositories that may be useful to people
 
 ### Real Estate
 
-[Notes on real estate investing](https://karlp.github.io/real_estate_notes)
+[Notes on real estate investing](https://karlpolen.github.io/real_estate_notes)
 
 [National University of Singapore Apartment Underwriting Presentation](https://karlpolen.github.io/nus_apartment)
 
