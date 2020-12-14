@@ -1,6 +1,6 @@
 ---
 output: 
-  word_document:
+  html_document:
     keep_md: TRUE
 ---
 
@@ -15,7 +15,7 @@ Karl Polen is the retired Chief Investment Officer of the Arizona Statement Reti
 
 ## Experience Highlights
 
-*Investment experience with ASRS (as CIO and Head of Private Markets Investing)* - Joined ASRS in 2010 as Head of Private Markets Investing and was promoted to CIO in 2016.  As CIO lead a team in the implementation of all aspects of the investing program including asset allocation, risk management, reporting, manager selection and asset management.  Implemented a direct and separate account investing program in private debt and real estate encompassing over 30% of fund assets.  Implemented a program of direct investment in asset managers in the real estate and credit sectors.  Detailed information about the ASRS investment program can be found at [www.azasrs.gov](WWW.AZASRS.GOV) 
+*Investment experience with ASRS (as CIO and Head of Private Markets Investing)* - Joined ASRS in 2010 as Head of Private Markets Investing and was promoted to CIO in 2016.  As CIO lead a team in the implementation of all aspects of the investing program including asset allocation, risk management, reporting, manager selection and asset management.  Implemented a direct and separate account investing program in private debt and real estate encompassing over 30% of fund assets.  Implemented a program of direct investment in asset managers in the real estate and credit sectors.   
 
 *Investment experience with ASRS (as trustee)* - Served as trustee of ASRS from 1994 through 2007 including two years as Chairman of the Board, three years as Chairman of Investments and was a member of the investment committee throughout the board tenure.  In these capacities, worked with trustees and ASRS senior team on asset allocation and investment policy.    
 
@@ -23,7 +23,7 @@ Karl Polen is the retired Chief Investment Officer of the Arizona Statement Reti
 
 *Restructuring and Distressed Assets* - Experienced as both a debtor and creditor in restructuring matters. Lead company representative and witness in a $500 million bankruptcy resulting in a successful restructuring allowing the equity holder to retain ownership of asset with substantial mitigation of obligations to secured creditors.  Experienced investor in distressed assets including defaulted debt and foreclosure situations.
 
-*Real estate project and operations management* -- Supervise teams of several hundred people involved in real estate projects and operating companies. Experience in all major real estate types including large scale community development, hotel, office, retail, industrial and apartments.  Experienced in all phases of operations including construction management, country club operations, utility operations, hotel asset management and all types of rental property management.  Highly experienced in zoning, entitlements, development agreements and government relations.
+*Real estate project and operations management* -- Supervise teams of several hundred people involved in real estate projects and operating companies. Experience in all major real estate types including large scale community development, hotel, office, retail, industrial and apartments.  Experienced in all phases of operations including construction management, country club operations, utility operations, hotel asset management and all types of rental property management.  
 
 *Entitlements and government relations*  -- Lead zoning efforts and negotiation of development agreements on multiple large scale real estate projects.  Lead efforts to obtain water and environmental permits for projects totaling 50,000 housing units. Successfully defended permit challenges in court settings. Active involvement in water policy formulation through participation on numerous governor-appointed commissions on water policy matters and as a member of the board of directors of the Central Arizona Project. Active in legislative matters, notably including leadership on successful effort to enact groundwater replenishment laws in Arizona.  
 
@@ -32,7 +32,7 @@ Karl Polen is the retired Chief Investment Officer of the Arizona Statement Reti
 *Technical and Analytical* - Strong computer skills with early work experience as a computer programmer and controller managing a data processing and accounting department.  Current proficiency in R, Latex, Markdown and various packages for machine learning and artificial intelligence.   Wrote code in these platforms to implement analytical methods for performance evaluation and reporting systems now in use by ASRS.  Trained investment team members in coding enhancing their skills and productivity.
 
 ## Investment Track Record at ASRS
-Following are investment results for the five years ended December 31, 2019.  ASRS has been a consistent top quartile performer and these returns place ASRS at the 11th percentile among large US pension plans.       
+Following are investment results for the five years ended December 31, 2019.  
 
 Asset Class	| Benchmark	| Portfolio|	Benchmark| Excess
 ------------|----------- | --------:| --------:| -----:|
@@ -43,14 +43,15 @@ Credit	| LSTA+250 |	8.0%	| 5.9%	| 2.1%|
 Real Estate |	ODCE	 | 9.8%	| 7.7%	| 2.1%|   
 Core Bonds	| Barclay's Agg	| 3.3%	| 3.1%	| .2%| 
 
-During Karl Polen's tenure at ASRS, he was instrumental in implementing substantial revisions to the investment approach.  Previously, the ASRS relied primarily on public equities as the primary driver of returns.  The program was re-envisioned to migrate nearly 50% of the assets to private equity, real estate and credit.  The real estate and credit programs were implemented in separate accounts and direct investments resulting in superior returns and substantially reduced fees.  When appropriate, ASRS also invested in substantial stakes in asset managers providing services to ASRS to capitalize on the value fee streams paid to those managers and the growth in those fees enabled partly through affiliation with ASRS.  
+During Karl Polen's tenure at ASRS, he was instrumental in implementing substantial revisions to the investment approach.  Previously, the ASRS relied on public equities as the primary driver of returns.  The program was re-envisioned to migrate nearly 50% of the assets to private equity, real estate and credit.  The real estate and credit programs were implemented in separate accounts and direct investments resulting in superior returns and substantially reduced fees.  When appropriate, ASRS also invested in substantial stakes in asset managers providing services to ASRS to capitalize on the value created by fee streams paid to those managers and the growth in those fees enabled partly through affiliation with ASRS.  
 
-The combined effect of these programs led to substantial improvements in ASRS investment results as illustrated in the following charts showing ASRS return rankings compared to other large pension fund investors.
+A shown in the following charts extracted from a public ASRS board presentation, the combined effect of these programs led to substantial improvements in ASRS investment results and led to ASRS consistently ranking in the top quartile when compared to other large U.S. public pension plans. 
 
-<asrs_rankings.png>
+![](asrs_ranking.png)
 
 ### Employment History
-Arizona State Retirement System, CIO and Head of Private Markets Investing (2010 to 2020) Pivotal Group, Executive Vice President (2002-2010)     
+Arizona State Retirement System, CIO and Head of Private Markets Investing (2010 to 2020)
+Pivotal Group, Executive Vice President (2002-2010)     
 Robson Communities, Chief Financial Officer (1987-2002)    
 Earlier work experience as asset manager, controller and computer programmer    
 
