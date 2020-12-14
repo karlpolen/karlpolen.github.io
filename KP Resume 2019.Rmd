@@ -1,6 +1,6 @@
 ---
 output: 
-  word_document:
+  pdf_document:
     keep_md: TRUE
 ---
 
