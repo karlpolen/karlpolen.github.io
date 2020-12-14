@@ -75,7 +75,7 @@ Member of the Governor's Central Arizona Project Advisory Commission
 Member of the Governor's Assured Water Supply Economic Analysis Committee    
 
 ### Publications
-*The Pragmatics of Private Markets Investing* in The Journal of Portfolio Management Fund Manager Selection 2020, 46 (5) 79-89; DOI: https://doi.org/10.3905/jpm.2020.1.135     
+*The Pragmatics of Private Markets Investing* in The Journal of Portfolio Management Fund Manager Selection 2020, 46 (5) 79-89; DOI: (https://doi.org/10.3905/jpm.2020.1.135)     
 Leading voices podcast at [https://leadingvoicespodcast.com/karl-polen-chief-investment-officer/](https://leadingvoicespodcast.com/karl-polen-chief-investment-officer/)    
 Other writings and sample code can be found at [https://karlpolen.github.io/](https://karlpolen.github.io/) 
 
