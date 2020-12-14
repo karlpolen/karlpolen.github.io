@@ -1,6 +1,6 @@
 ---
 output: 
-  html_document:
+  word_document:
     keep_md: TRUE
 ---
 
