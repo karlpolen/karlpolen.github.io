@@ -12,7 +12,7 @@ This web page provides links to select repositories that may be useful to people
 
 [Thoughts on investing](thoughts.md)
 
-[Resume](KP_Resume_2020.md)
+[Resume](KP-Resume-2020.md)
 
 ## Index to select repositories
 
