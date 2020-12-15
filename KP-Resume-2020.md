@@ -45,12 +45,12 @@ Core Bonds	| Barclay's Agg	| 3.3%	| 3.1%	| .2%|
 
 During Karl Polen's tenure at ASRS, he was instrumental in implementing substantial revisions to the investment approach.  Previously, the ASRS relied on public equities as the primary driver of returns.  The program was re-envisioned to migrate nearly 50% of the assets to private equity, real estate and credit.  The real estate and credit programs were implemented in separate accounts and direct investments resulting in superior returns and substantially reduced fees.  When appropriate, ASRS also invested in substantial stakes in asset managers providing services to ASRS to capitalize on the value created by fee streams paid to those managers and the growth in those fees enabled partly through affiliation with ASRS.  
 
-A shown in the following charts extracted from a public ASRS board presentation, the combined effect of these programs led to substantial improvements in ASRS investment results and led to ASRS consistently ranking in the top quartile when compared to other large U.S. public pension plans. 
+Above market returns at ASRS over the last ten years added approximately $4 billion to the trust corpus and led to ASRS consistently ranking in the top quartile when compared to other large U.S. public pension plans. The following charts show the percentile rankings of ASRS among large pension plans and are extracted from a public ASRS board presentation.
 
 ![](asrs_ranking.png)
 
 ### Employment History
-Arizona State Retirement System, CIO and Head of Private Markets Investing (2010 to 2020)
+Arizona State Retirement System, CIO and Head of Private Markets Investing (2010 to 2020)   
 Pivotal Group, Executive Vice President (2002-2010)     
 Robson Communities, Chief Financial Officer (1987-2002)    
 Earlier work experience as asset manager, controller and computer programmer    
